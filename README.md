@@ -1,2 +1,2 @@
-# analisis_covid19
+# Analisis Data COVID 19 di Indonesia
 Project Analisis Data COVID 19 di Indonesia
